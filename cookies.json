@@ -1,0 +1,156 @@
+[
+  {
+    "name": "session-id-time-{apollo.ocf.appconfig.app}-us-prod",
+    "value": "2082787201l",
+    "domain": "kdp.amazon.com",
+    "path": "/",
+    "expires": 2223950644.498485,
+    "size": 61,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "session-id-{apollo.ocf.appconfig.app}-us-prod",
+    "value": "140-0273723-4186534",
+    "domain": "kdp.amazon.com",
+    "path": "/",
+    "expires": 2223950644.498378,
+    "size": 64,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "lc-main",
+    "value": "en_US",
+    "domain": ".amazon.com",
+    "path": "/",
+    "expires": 1624766598.179211,
+    "size": 12,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "csm-hit",
+    "value": "C1N77305F47Z4M02W9CD+s-Z45N6RCY8E28GJABN8EJ|1593230635529",
+    "domain": "kdp.amazon.com",
+    "path": "/",
+    "expires": 1593835430,
+    "size": 64,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "sst-main",
+    "value": "Sst1|PQFd1f7FEh7lxybVyRRN3DdHC1xAyI3LQo8LPP5kw_GY38YbFXoqNWfsKtz5Hjq38wds9eXbuDSykBGpcbNJQ5YMaYobfwSjq8dxiOovkJnfc2MiLow585eBr77_XOde3TiL87XW0e2hqPK9vlYntmgrpoXKPVFt9UoIr1w_Rdytu-0Wms5VFVT-IAmGzDVFtED84aJQi0NPtZQ_tkFDHlC-z8ZCEoIEDYCSt_0oIv6EfvkmnmTPuj9p3RBxxbHtKtBYP7Z66bi4p3xz9nKYYuf_mH96hZziTUKE_ohOHCbRnMtDcehc5IfUaHelpMcoMs22_Ki-cvgS0WQ_7XOHc9TyFg",
+    "domain": ".amazon.com",
+    "path": "/",
+    "expires": 1624766628.165074,
+    "size": 359,
+    "httpOnly": true,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "sess-at-main",
+    "value": "\"tPTmhk6JMZ6tlkrOHDNrHeFyHGqcITLkp7D1dsawls8=\"",
+    "domain": ".amazon.com",
+    "path": "/",
+    "expires": 1624766628.165048,
+    "size": 58,
+    "httpOnly": true,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "session-id-time",
+    "value": "2223954279l",
+    "domain": ".amazon.com",
+    "path": "/",
+    "expires": 1624766628.164886,
+    "size": 26,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "at-main",
+    "value": "Atza|IwEBIL5VTUKPelz2oZ9kcu6aLMvjKYhJIOuFrcIUpq4w6ukQ-D621eYjx0jSkWdu2PYnNA1ZeRUK2TlZFKLs3RUI-nkWlN8qA_AhzF8-hw0EIFI-sjEYNMPcMZN6pdw-SsMs9SktqcgUE9O8gxNkkUrrGfQrTSLxbZNuh2WSxIJsRjymQeXo2-4Wi7d0HobsABRv7CM8HXbB6tUDuLRqfjMeQ_v6",
+    "domain": ".amazon.com",
+    "path": "/",
+    "expires": 1624766628.165006,
+    "size": 232,
+    "httpOnly": true,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "kdp-lc-main",
+    "value": "en_US",
+    "domain": ".amazon.com",
+    "path": "/",
+    "expires": 2082783549.269308,
+    "size": 16,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "session-token-{apollo.ocf.appconfig.app}-us-prod",
+    "value": "\"qJmHMDF8oROEMex9Etz4SQeI/Pnve7WNPTgnG+kCae1OLRrdcnQgrl/tH0TPdT44cUt9iSmquy7dY2ddDnbdVXUADN5fjuqbFVcDL3dmmi/UUIpZVlXOzQ1hlH60NQhx0gOVZOFht0FYnGxvn/B457AJuKSEn4sRviRlOxuohngYyOJ4UoOU84Mn+vrAx4CWMI/TqulLe4gxIfmOul/ZT9Ai2OmAkyW0evfK+sKE+Wk=\"",
+    "domain": "kdp.amazon.com",
+    "path": "/",
+    "expires": 2223950645.498529,
+    "size": 286,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "ubid-main",
+    "value": "134-6719840-7969800",
+    "domain": ".amazon.com",
+    "path": "/",
+    "expires": 2082783549.850355,
+    "size": 28,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "x-main",
+    "value": "\"nglj94nG0xlY4F5rWjcgiERQI2dSsHSCh5NQ8JnVUjOkccErnG?H15Ot6c78D91u\"",
+    "domain": ".amazon.com",
+    "path": "/",
+    "expires": 1624766628.164982,
+    "size": 72,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "session-token",
+    "value": "\"qJmHMDF8oROEMex9Etz4SQeI/Pnve7WNPTgnG+kCae1OLRrdcnQgrl/tH0TPdT44cUt9iSmquy7dY2ddDnbdVXUADN5fjuqbFVcDL3dmmi/UUIpZVlXOzQ1hlH60NQhx0gOVZOFht0FYnGxvn/B457AJuKSEn4sRviRlOxuohngYyOJ4UoOU84Mn+vrAx4CWMI/TqulLe4gxIfmOul/ZT9Ai2OmAkyW0evfK+sKE+Wk=\"",
+    "domain": ".amazon.com",
+    "path": "/",
+    "expires": 1624766628.164949,
+    "size": 251,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "session-id",
+    "value": "140-0273723-4186534",
+    "domain": ".amazon.com",
+    "path": "/",
+    "expires": 1624766628.164803,
+    "size": 29,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  }
+]

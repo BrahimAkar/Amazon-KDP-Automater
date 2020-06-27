@@ -1,0 +1,17 @@
+{
+  "name": "amazonKDP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "random-int": "^2.0.1",
+    "unique-random-array": "^2.0.0"
+  }
+}
