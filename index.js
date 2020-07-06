@@ -2,6 +2,8 @@ const fs = require("fs").promises;
 const uniqueRandomArray = require("unique-random-array");
 const puppeteer = require("puppeteer");
 const randomInt = require("random-int");
+const express = require("express");
+const app = express();
 
 async function runIt() {
   const browser = await puppeteer.launch({
@@ -291,4 +293,15 @@ async function runIt() {
   //
 }
 
-runIt();
+app.get("/kdp", async (req, res) => {
+  try {
+    res.send({ message: "OK" });
+    await runIt();
+  } catch (error) {
+    res.send({ message: "NOT OK" });
+  }
+});
+
+app.listen(4666, () => {
+  console.log("SERVER STARTED WITH SUCCESS");
+});
