@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "jsdom": "^16.2.2",
+    "jsdom": "^16.5.0",
     "random-int": "^2.0.1",
     "unique-random-array": "^2.0.0"
   }
